@@ -37,3 +37,6 @@ from NNTester.trainer import Trainer
 trainer = Trainer()
 
 trainer.train_augmented()
+
+
+![alt tag](https://github.com/cgianmarco/quick-nn-tester/blob/master/www.GIFCreator.me_U4Llz9%20(1).gif)
